@@ -109,3 +109,4 @@ Ideally, every bugfix should be supplied with a unit or integration test.
 ## Other links
 
 Former project page at Google Code: http://code.google.com/p/maven-download-plugin/
+Good night
